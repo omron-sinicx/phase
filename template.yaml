@@ -20,11 +20,11 @@ authors:
     affiliation: [1, 2]
     mark: '*'
     url: https://jsiburian.github.io
-    # TODO(human): position
+    position: Intern
   - name: Cristian C. Beltran-Hernandez
     affiliation: [1]
     url: https://cristianbehe.me
-    # TODO(human): position
+    position: Senior Researcher
   - name: Tatsuya Matsushima
     affiliation: [2]
     url: https://weblab.t.u-tokyo.ac.jp/en/member/tatsuya-matsushima/
@@ -37,7 +37,7 @@ authors:
     affiliation: [1]
     mark: '†'
     url: https://sites.google.com/view/masashihamaya/home
-    # TODO(human): position
+    position: Principal Investigator
   - name: Mai Nishimura
     affiliation: [1]
     mark: '†'
