@@ -12,8 +12,8 @@ resources:
   demo:
   huggingface:
 description: A compliant wrist reveals insertion phases from touch, so phase-consistent retrieval lifts few-shot peg-in-hole success by 13 points.
-image: https://omron-sinicx.github.io/${your-repository-name}/teaser.png
-url: https://omron-sinicx.github.io/${your-repository-name}
+image: https://omron-sinicx.github.io/phase/teaser.png
+url: https://omron-sinicx.github.io/phase
 speakerdeck:
 authors:
   - name: Jeremy Siburian
