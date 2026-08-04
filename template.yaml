@@ -43,7 +43,7 @@ authors:
     mark: '†'
     position: Senior Researcher
     url: https://denkiwakame.github.io
-contact_ids: ['github', 'omron', 5] #=> github issues, contact@sinicx.com, 5th author (corresponding e-mail in the paper)
+contact_ids: ['omron', 5] #=> github issues, contact@sinicx.com, 5th author (corresponding e-mail in the paper)
 affiliations:
   - OMRON SINIC X Corporation
   - The University of Tokyo
@@ -162,7 +162,7 @@ projects:
     img: https://arxiv.org/html/2601.19275v1/x2.png
     description: |
       A soft wrist explores contact safely while a tactile memory retrieves past demonstrations, so the robot adapts to unseen pegs and conditions. The Masked Tactile Trajectory Transformer (MAT³) learns representations by masked-token prediction over tactile, force-torque, and proprioceptive signals.
-    url: https://arxiv.org/abs/2601.19275
+    url: https://omron-sinicx.github.io/tameso
   - title: 'Multi-Agent Behavior Retrieval: Retrieval-Augmented Policy Training for Cooperative Manipulation by Mobile Robots'
     journal: "IROS'24"
     img: https://omron-sinicx.github.io/mabr/assets/method.png
