@@ -7,7 +7,7 @@ resources:
   paper: https://arxiv.org
   poster: poster.pdf
   code: # TODO(human): code repo, if it will be released
-  video:
+  video: https://www.youtube.com/embed/h-daPHmVC5E?si=x9_787Mmip-cudWB
   blog:
   demo:
   huggingface:
