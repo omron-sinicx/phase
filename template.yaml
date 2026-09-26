@@ -5,7 +5,7 @@ title: 'PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion
 conference: IROS2026
 resources:
   paper: https://arxiv.org
-  poster:
+  poster: poster.pdf
   code: # TODO(human): code repo, if it will be released
   video:
   blog:
