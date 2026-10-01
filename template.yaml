@@ -4,7 +4,7 @@ twitter: '@omron_sinicx'
 title: 'PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion Learning'
 conference: IROS2026
 resources:
-  paper: https://drive.google.com/file/d/1Jdy1kVCVWbMOsvrG3Ji-zg-R52b1DQyv/view?usp=sharing
+  paper: https://arxiv.org/abs/2609.30889
   poster: poster.pdf
   code: # TODO(human): code repo, if it will be released
   video: https://www.youtube.com/embed/h-daPHmVC5E?si=x9_787Mmip-cudWB
